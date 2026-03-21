@@ -18,3 +18,13 @@ python -m streamlit run app.py
 - Confidence-based predictions
 - Error handling for invalid inputs
 - Streamlit GUI interface
+
+## Datasets
+
+The datasets used in this project are available on Kaggle:
+
+- Heart Disease Dataset: https://www.kaggle.com/datasets/ronitf/heart-disease-uci  
+- IMDB Movie Reviews Dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews  
+- Flower Image Dataset: https://www.kaggle.com/datasets/aksha05/flower-image-dataset  
+- Voice Gender Recognition Dataset: https://www.kaggle.com/datasets/murtadhanajim/gender-recognition-by-voiceoriginal  
+- Workout Fitness Video Dataset: https://www.kaggle.com/datasets/hasyimabdillah/workoutfitness-video  
