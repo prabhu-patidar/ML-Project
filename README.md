@@ -28,3 +28,7 @@ The datasets used in this project are available on Kaggle:
 - Flower Image Dataset: https://www.kaggle.com/datasets/aksha05/flower-image-dataset  
 - Voice Gender Recognition Dataset: https://www.kaggle.com/datasets/murtadhanajim/gender-recognition-by-voiceoriginal  
 - Workout Fitness Video Dataset: https://www.kaggle.com/datasets/hasyimabdillah/workoutfitness-video  
+
+## Reports
+
+All project reports are available in the `reports/` folder.
